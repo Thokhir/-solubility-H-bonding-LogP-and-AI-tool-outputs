@@ -1,0 +1,7 @@
+Molecule,Canonical SMILES,Formula,MW,#Rotatable bonds,#H-bond acceptors,#H-bond donors,iLOGP,XLOGP3,WLOGP,MLOGP,Silicos-IT Log P,Consensus Log P,ESOL Solubility (mg/ml),ESOL Class,GI absorption,BBB permeant,Lipinski #violations,Ghose #violations,Veber #violations,Egan #violations,Muegge #violations,Bioavailability Score
+Metribuzin,CSc1nnc(c(=O)n1N)C(C)(C)C,C8H14N4OS,214.29,2,3,1,1.98,1.7,0.38,1.28,0.42,1.15,8.06E-01,Soluble,High,No,0,0,0,0,0,0.55
+Glyphosate,OC(=O)CNCP(=O)(O)O,C3H8NO5P,169.07,4,6,4,-0.58,-3.4,-1.2,-4.45,-2.05,-2.34,5.57E+03,Highly soluble,High,No,0,3,0,0,3,0.56
+"2,4-D Amine Salt",OC(=O)COc1ccc(cc1Cl)Cl,C8H6Cl2O3,221.04,3,3,1,1.69,2.81,2.46,2.21,2.38,2.31,1.66E-01,Soluble,High,Yes,0,1,0,0,0,0.85
+Bispyribac-Sodium,COc1nc(Oc2cccc(c2C(=O)[O-])Oc2nc(OC)cc(n2)OC)nc(c1)OC.[Na+],C19H17N4NaO8,452.35,9,12,0,-11.15,2.95,1.25,0.57,1.57,-0.96,2.14E-02,Moderately soluble,Low,No,1,0,1,1,1,0.55
+Paraquat Dichloride,C[n+]1ccc(cc1)c1cc[n+](cc1)C.[Cl-].[Cl-],C12H14Cl2N2,257.16,1,0,0,-11.63,-4.22,-4.99,2.02,1.8,-3.4,1.40E+03,Highly soluble,Low,No,0,1,0,0,1,0.55
+Clodinafop-Propargyl,C#CCOC(=O)[C@H](Oc1ccc(cc1)Oc1ncc(cc1F)Cl)C,C17H13ClFNO4,349.74,7,6,0,3.64,3.9,4.11,2.96,4.18,3.76,1.48E-02,Moderately soluble,High,Yes,0,0,0,0,0,0.55
